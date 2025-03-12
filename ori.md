@@ -1,5 +1,7 @@
 # Open Research Institute (ORI)
 
+*Special thanks to Defender, who leads the ORI and helped me get this page online!*
+
 As of the time of writing on March 11, 2025, I am a founding member and independent researcher at the [Open Research Institute](https://open-research-institute.github.io/), a new project and movement “for all who pursue understanding reality — a space where prediction trumps paradigm”. I am excited for the initiatives we have lined up, which includes the creation of a central documentation that indexes the writings of all researchers.
 
 I plan to use this as an opportunity to move more of my writings online and organize it into longform archives. As this is a chance to collaborate with other writers and thinkers in a public-facing context, I will also use this chance to begin the project of writing proper indexes of my own work as I understand it. This is something that I have put off for a long time in my own writing: I am more willing to rewrite the same things again and again rather than perform a serious literature review and yank everything together! Mostly, I am afraid of hard work. But why work hard, when I can hardly work?
